@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/Education_website/static/css/main.db2e0f1e.css",
-    "main.js": "/Education_website/static/js/main.f9ca8b5c.js",
+    "main.css": "/Education_website/static/css/main.d2ee3542.css",
+    "main.js": "/Education_website/static/js/main.9d4a278f.js",
     "static/js/787.edb388e1.chunk.js": "/Education_website/static/js/787.edb388e1.chunk.js",
     "static/media/tc.png": "/Education_website/static/media/tc.66e132f330fd312fe176.png",
     "static/media/AZADVENU (3).jpg": "/Education_website/static/media/AZADVENU (3).2886264fc204b1ad8254.jpg",
     "static/media/jpg": "/Education_website/static/media/c871d9cf0d06520c6368b7fd3ac703e4.0e0274c745bbc23660a9.jpg",
+    "static/media/ANITHA (5).png": "/Education_website/static/media/ANITHA (5).df189b86f4fc24dc2abc.png",
+    "static/media/ANITHA (3).png": "/Education_website/static/media/ANITHA (3).1f25fab1c53e6499949b.png",
     "static/media/3035073-h&h.png": "/Education_website/static/media/3035073-h&h.7bc1d297186c6d80c9e4.png",
     "static/media/istockphoto-1311146017-612x612-rights.jpg": "/Education_website/static/media/istockphoto-1311146017-612x612-rights.81943d0ba996c4646311.jpg",
-    "static/media/anitha.jpg": "/Education_website/static/media/anitha.8599e738810e553adde9.jpg",
+    "static/media/social3.jpg": "/Education_website/static/media/social3.0c2d03f26091aa965572.jpg",
+    "static/media/science.png": "/Education_website/static/media/science.c0e1c4f503acd0d64bc9.png",
     "index.html": "/Education_website/index.html",
-    "main.db2e0f1e.css.map": "/Education_website/static/css/main.db2e0f1e.css.map",
-    "main.f9ca8b5c.js.map": "/Education_website/static/js/main.f9ca8b5c.js.map",
+    "main.d2ee3542.css.map": "/Education_website/static/css/main.d2ee3542.css.map",
+    "main.9d4a278f.js.map": "/Education_website/static/js/main.9d4a278f.js.map",
     "787.edb388e1.chunk.js.map": "/Education_website/static/js/787.edb388e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db2e0f1e.css",
-    "static/js/main.f9ca8b5c.js"
+    "static/css/main.d2ee3542.css",
+    "static/js/main.9d4a278f.js"
   ]
 }
