@@ -1,6 +1,6 @@
 import React from 'react'
 import './Footer.css'
-import footer from '../../assets/img/anitha.jpg'
+import footer from '../../assets/img/ANITHA (5).png'
 import { Link } from 'react-router-dom'
 function Footer() {
   const handleClick =()=>{

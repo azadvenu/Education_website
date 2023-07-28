@@ -5,11 +5,8 @@ import './Home.css'
 import Courses from '../Courses/Courses'
 import Community from '../Community/Community'
 import Plans from '../Plans/Plans'
+import MainCourses from '../MainCourses/MainCourses'
 function Home() {
-
-  const handleClick=()=>{
-    window.open('https://www.youtube.com/@ExamWinnerSSLC')
-  }
 
   return (
    <>
@@ -22,8 +19,8 @@ function Home() {
 <h2 className='section_title'>Learn & Grow , Get Online  LIVE Tuition</h2>
 <p>Class 1-10 CBSE|State Syllabus, Creating a better future.</p>
 <div className="home-btns">
-    <button className='register-btn' onClick={handleClick}>Get Started</button>
-    <button className='register-btn'onClick={handleClick}>Watch Now</button>
+    <button className='register-btn'>Get Started</button>
+    <button className='register-btn'>Watch Now</button>
 </div>
 </div>
 
@@ -49,6 +46,7 @@ function Home() {
 </div>
 </div>
 </section>
+<MainCourses/>
 <Courses/>
 <Community/>
 <Plans/>

@@ -1,12 +1,12 @@
 import React from 'react'
-import logo from '../../assets/img/anitha.jpg'
+import logo from '../../assets/img/ANITHA (3).png'
 import './Header.css'
 import { Link } from 'react-router-dom'
 function Header() {
 
   const nav_titles =[
     { path:'/', display:'Home'},
-    { path:'/Courses',display:'Courses'},
+    { path:'/Subjects',display:'Subjects'},
     { path:'/Services', display:'Services'},
     {path:'/About Us', display:'About Us'}
   ]
